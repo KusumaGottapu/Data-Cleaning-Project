@@ -1,0 +1,16 @@
+CustomerID,Gender,Age,Tenure,MonthlyCharges,SupportCalls,Subscription,Churn
+101,Male,25,2,80,5,Monthly,Yes
+102,Female,32,12,50,1,Yearly,No
+103,Male,45,24,40,0,Yearly,No
+104,Female,28,3,90,6,Monthly,Yes
+105,Male,50,36,35,0,Yearly,No
+106,Female,35,8,60,2,Monthly,No
+107,Male,22,1,95,7,Monthly,Yes
+108,Female,40,18,45,1,Yearly,No
+109,Male,55,30,30,0,Yearly,No
+110,Female,30,4,85,5,Monthly,Yes
+111,Male,48,20,50,2,Yearly,No
+112,Female,26,2,100,8,Monthly,Yes
+113,Male,38,15,55,1,Yearly,No
+114,Female,60,40,25,0,Yearly,No
+115,Male,29,5,75,4,Monthly,Yes
